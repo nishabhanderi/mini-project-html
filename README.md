@@ -18,8 +18,6 @@ It contains a responsive sidebar design.
 index.html  
 style.css  
 
-## 🌐 Live Demo
-(Add your GitHub Pages link here)
 
 ## 👩‍💻 Author
 Nisha Bhanderi
